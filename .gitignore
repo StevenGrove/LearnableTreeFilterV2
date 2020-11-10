@@ -1,0 +1,50 @@
+# output dir
+output
+instant_test_output
+inference_test_output
+
+*.jpg
+*.png
+*.txt
+
+# temporary files
+._.DS_Store
+.DS_Store
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+cvpods.egg-info/
+build/
+dist/
+wheels/
+
+tools/cvpods_test
+tools/cvpods_train
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+
+# ipython/jupyter notebooks
+*.ipynb
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# IDE editor settings
+.idea
+.vscode/
+
+# project dirs
+/cvpods/model_zoo/configs
+/datasets
+/models
+/playground
