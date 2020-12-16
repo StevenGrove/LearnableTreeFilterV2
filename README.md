@@ -1,5 +1,5 @@
 # Learnable Tree Filter V2
-By Lin Song, Yanwei Li, Zhengkai Jiang, Zeming Li, Xiangyu Zhang, Hongbin Sun, Jian Sun, Nanning Zheng.
+By [Lin Song](https://linsong.me), [Yanwei Li](https://yanwei-li.com), [Zhengkai Jiang](https://jiangzhengkai.github.io), [Zeming Li](http://www.zemingli.com), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en), [Hongbin Sun](http://gr.xjtu.edu.cn/web/hsun/chinese), [Jian Sun](http://www.jiansun.org), Nanning Zheng.
 
 This repo is an official implementation for "[Rethinking Learnable Tree Filter for Generic Feature Transform](https://papers.nips.cc/paper/2020/file/2952351097998ac1240cb2ab7333a3d2-Paper.pdf)" (NeurIPS2020) on PyTorch framework. 
 
@@ -114,6 +114,6 @@ Please cite this project in your publications if it helps your research.
     author = {Song, Lin},
     title = {LearnableTreeFilterV2},
     howpublished = {\url{https://github.com/StevenGrove/LearnableTreeFilterV2}},
-    year ={2020}
+    year = {2020}
 }
 ```
